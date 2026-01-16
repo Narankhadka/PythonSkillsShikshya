@@ -10,3 +10,10 @@
 - Python installation
 - Discussion on development tools and environment setup
 
+# Day 2: Basic Python
+
+## Topics Covered
+- Variables
+- Data Types
+- Loops
+- Nested Loops
